@@ -14,7 +14,6 @@ This project implements a CLI-based AI-powered code reviewer using the open-sour
   - **Suggestions**: Recommends modern features (e.g., f-strings, JSDoc).
   - **Security Concerns**: Detects lack of input validation.
 - **Caching**: Stores LLM responses to avoid redundant processing.
-- **Extensibility**: Add new languages via `SUPPORTED_EXTENSIONS` in the script.
 
 ## Requirements
 - **OS**: Windows, macOS, or Linux
