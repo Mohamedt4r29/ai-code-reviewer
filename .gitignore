@@ -1,0 +1,6 @@
+venv/ 
+models/ 
+code_reviews/ 
+__pycache__/ 
+*.gguf 
+code_reviewer.log 
